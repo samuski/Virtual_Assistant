@@ -1,9 +1,9 @@
 # Virtual_Assistant
 
-Version 1.1.1.0 - Added wakeword
-Version 1.0.2.0 - Added word doc call feature
-Version 1.0.1.0 - Restructure of code
-Version 1.0.0.0 - Basic functions 
+Version 1.1.1.0 - Added wakeword <br />
+Version 1.0.2.0 - Added word doc call feature <br />
+Version 1.0.1.0 - Restructure of code <br />
+Version 1.0.0.0 - Basic functions <br />
 
 Implementations to add :
   - GUI
